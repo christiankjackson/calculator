@@ -13,6 +13,7 @@ body {
     align-items: center;
     width: 350px;
     height: 700px;
+    font-weight: bold;
 }
 
 .sidebar p {
